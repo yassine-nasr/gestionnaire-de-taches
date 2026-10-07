@@ -1,6 +1,6 @@
 # Gestionnaire de tâches (React)
 
-TP ReactJS - GENNEXE
+TP ReactJS 
 
 ## Membres du groupe
 - Brahim Naît Mohand
